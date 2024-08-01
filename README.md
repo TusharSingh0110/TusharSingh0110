@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Refugee Help**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **AI-ML**
 
-- 👯 I’m looking to collaborate on **creating MERN stack projects**
+- 👯 I’m looking to collaborate on **creating MERN stack and AI-ML based projects**
 
 - 👨‍💻 All of my projects are available at [https://tusharsingh0110.github.io/personal_portfolio/](https://tusharsingh0110.github.io/personal_portfolio/)
 
-- 💬 Ask me about **Full Stack, DBMS**
+- 💬 Ask me about **Full Stack, MERN(MongoDB , Express , ReactJS , NodeJS )**
 
 - 📫 How to reach me **tusharsingh.hr@gmail.com**
 
